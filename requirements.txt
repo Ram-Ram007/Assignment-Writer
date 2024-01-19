@@ -1,2 +1,0 @@
-wikipedia
-python==3.9
